@@ -1,0 +1,2 @@
+C:\OpenGLMeshLoader19 - sky\Debug\OpenGLMeshLoader19.exe
+C:\Crash\OpenGLMeshLoader19 - sky\Debug\OpenGLMeshLoader19.exe
